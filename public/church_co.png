@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>San Antonio Mennonite Church</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link href="main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper_body">
+	<div id="section_top">
+		<img id="church" src="church_co.png" alt="Photo of the church building" width="350" height="244" />
+		<h1>San Antonio Mennonite Church</h1>
+		<div id="info">
+			<p id="address">1443 South Saint Mary's St.<br />San Antonio, Texas 78210</p>
+			<a class="map" href="https://goo.gl/maps/pselN" target="_blank">map</a>
+			<p id="phone">(210) 281-1726</p>
+			<p id="email"><a href="mailto:office@sanantoniomennonite.org">office@sanantoniomennonite.org</a></p>
+			<p id="elders">Elders: Jonathan Beachy, Diane Casta&#241;on, John Garland</p>
+		</div>
+		<div id="sunday">
+			<h2>Sunday Schedule</h2>
+			<div id="schedule">
+				<!-- <div class="comment_top"></div> -->
+				<table>
+					<tbody>
+						<tr>
+							<td>school year:</td>
+							<td class="time">9:30 a.m.</td>
+							<td>Sunday School for all ages</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+							<td class="time">10:45 a.m.</td>
+							<td>Worship Service</td>
+						</tr>
+						<tr class="blank"><td>&nbsp;</td></tr>
+						<tr>
+							<td>summer:</td>
+							<td class="time">9:15 a.m.</td>
+							<td>Food &amp; Fellowship</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+							<td class="time">10:00 a.m.</td>
+							<td>Worship Service</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<p id="visitors">Visitors welcome!</p>
+		</div>
+	</div>
+	
+	<div id="section_welcome">
+		<img id="logo" src="sig_samc.png" alt='SAMC logo, which includes the following text: "Seek the peace of the city where I have sent you." Jeremiah 29:7' width="300" height="210" />
+		<h2>Welcome</h2>
+		<p>You are invited to be part of our church family!</p>
+		<p>San Antonio Mennonite Church is an open, family-friendly, singles-friendly church. Children are an important part of our family and are included in the worship service.</p>
+		<p>Our worship focuses on God's presence with us. Our preaching is centered on Christ and the Bible.</p>
+		<p>We are committed to serve those in need, to speak out against injustice, and to work for reconciliation between all people.</p>
+		<p>We are committed to share the hope we have in Christ and invite everyone into our Christian community.</p>
+	</div>
+	<div id="section_statements">
+		<h2>Vision Statement</h2>
+		<p>	Our vision is to be a caring community,<br/>
+			being transformed by Christ's love<br/>
+			so that we share God's peace with all people.
+		</p>
+		<h2>Mission Statement</h2>
+		<p>	Our mission is to embody and proclaim the Good News of Jesus to our neighbor,<br/>
+			while growing in an abiding relationship with Christ and fellow believers.
+		</p>
+	</div>
+	<div id="section_bottom_photo">
+		<img id="palmsun_2013" src="palmsun_2013.jpg" alt="Photo a church service." width="600" height="243" />
+		<p class="caption">a Sunday morning service</p>
+	</div>
+</div>
+</body>
+</html>
